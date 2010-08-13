@@ -1,7 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Approved Change123");
-        System.out.println("Approved Change123");
     }
 }
